@@ -1,0 +1,31 @@
+{
+  "name": "gulpboilerplate",
+  "version": "1.0.0",
+  "description": "A gulp based boilerplate tasked with SASS, Babel, jshint and surge",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TylerDelRosario/gulp-boilerplate.git"
+  },
+  "author": "Tyler Del Rosario",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TylerDelRosario/gulp-boilerplate/issues"
+  },
+  "homepage": "https://github.com/TylerDelRosario/gulp-boilerplate#readme",
+  "devDependencies": {
+    "babel-preset-env": "^1.6.1",
+    "gulp": "^3.9.1",
+    "gulp-babel": "^7.0.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-jshint": "^2.0.4",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^3.1.0",
+    "gulp-surge": "^0.1.0",
+    "gulp-uglify": "^3.0.0",
+    "jshint": "^2.9.5"
+  }
+}
